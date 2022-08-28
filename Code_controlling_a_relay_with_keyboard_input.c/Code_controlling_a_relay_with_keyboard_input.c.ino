@@ -1,3 +1,4 @@
+//controlling a light bulb with keyboard input
 char inByte = 'n'; // initialize the variable inByte
 # define relay 2 // pin that the LED is attached to
 
@@ -10,10 +11,10 @@ void loop() {
   if(Serial.available()){
     inByte = Serial.read();
     if(inByte == 'y'){
-      digitalWrite(relay,LOW);
+      digitalWrite(relay,HIGH;
       }
     if(inByte == 'n'){
-      digitalWrite(relay,HIGH);
+      digitalWrite(relay,LOW);
       } 
     }
 }
