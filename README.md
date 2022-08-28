@@ -20,9 +20,10 @@ In this project the serial monitor is used to send commands to the arduino mega 
 The code is written in C and the Arduino IDE is used to compile and write code on to the Arduino Mega 2560 
 
 ### Video:
+https://user-images.githubusercontent.com/86454491/187061690-fd642bac-fd1c-4d66-abd3-2a2355be0afa.mp4
 
 
-https://user-images.githubusercontent.com/86454491/187061606-b5761925-e767-4e68-bb59-47cc308b3e58.mp4
+
 
 
 
