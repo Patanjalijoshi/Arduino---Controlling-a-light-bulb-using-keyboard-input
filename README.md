@@ -1,7 +1,4 @@
 # Arduino---Controlling-a-light-bulb-using-keyboard-input
-This project deals with controlling a light bulb with keyboard input using a relay
-
-## Controlling-a-light-bulb-using-keyboard-input
 In this project the serial monitor is used to send commands to the arduino mega 2560 to toggle a lightbulb on or off. The lightbulbs operationg voltage is 220 volts so a relay is used to toggle its state of operation.
 
 
